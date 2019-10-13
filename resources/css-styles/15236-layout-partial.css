@@ -1,0 +1,222 @@
+.fl-node-5a0c9cbd2f647 .fl-bg-video-audio {
+ display:none;
+ cursor:pointer;
+ position:absolute;
+ bottom:20px;
+ right:20px;
+ z-index:5;
+ width:20px
+}
+.fl-node-5a0c9cbd2f647 .fl-bg-video-audio .fl-audio-control {
+ font-size:20px
+}
+.fl-node-5a0c9cbd2f647 .fl-bg-video-audio .fa-times {
+ font-size:10px;
+ vertical-align:middle;
+ position:absolute;
+ top:5px;
+ left:11px;
+ bottom:0
+}
+.fl-node-5a0c9cbd2f647>.fl-row-content-wrap {
+ border-top-width:1px;
+ border-right-width:0;
+ border-bottom-width:1px;
+ border-left-width:0
+}
+@media(max-width:992px) {
+}
+@media(max-width:768px) {
+}
+.fl-node-5a0c9cbd2f647>.fl-row-content-wrap {
+ padding-top:50px;
+ padding-right:0;
+ padding-left:0
+}
+@media(max-width:768px) {
+ .fl-node-5a0c9cbd2f647.fl-row>.fl-row-content-wrap {
+  padding-right:0;
+  padding-left:0
+ }
+}
+.fl-node-5a0c9cbd2eeac {
+ width:100%
+}
+.fl-node-5a0c9cbd2eeac>.fl-col-content {
+ background-color:#fff6f3;
+ border-top-width:1px;
+ border-right-width:1px;
+ border-bottom-width:1px;
+ border-left-width:1px
+}
+@media(max-width:992px) {
+}
+@media(max-width:768px) {
+ .fl-builder-content .fl-node-5a0c9cbd2eeac {
+  width:100%!important;
+  max-width:none;
+  clear:none;
+  float:left
+ }
+}
+.fl-node-5a0c9cbd2eeac>.fl-col-content {
+ margin-right:0;
+ margin-left:0
+}
+@media(max-width:992px) {
+ .fl-node-5a0c9cbd2eeac.fl-col>.fl-col-content {
+  margin-right:10px;
+  margin-left:10px
+ }
+}
+@media(max-width:768px) {
+ .fl-node-5a0c9cbd2eeac.fl-col>.fl-col-content {
+  margin-bottom:20px
+ }
+}
+.fl-node-5a0c9cbd2eeac>.fl-col-content {
+ padding-top:30px;
+ padding-right:30px;
+ padding-bottom:30px;
+ padding-left:30px
+}
+@media(max-width:992px) {
+ .fl-node-5a0c9cbd2eeac.fl-col>.fl-col-content {
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px
+ }
+}
+.fl-node-5a0c9cbd2f363 {
+ width:100%
+}
+.fl-node-5a0c9cbd2f363>.fl-col-content {
+ border-top-width:1px;
+ border-right-width:1px;
+ border-bottom-width:1px;
+ border-left-width:1px
+}
+@media(max-width:992px) {
+}
+@media(max-width:768px) {
+}
+.fl-node-5a0c9cbd2f363>.fl-col-content {
+ padding-right:0;
+ padding-left:0
+}
+@media(max-width:992px) {
+ .fl-node-5a0c9cbd2f363.fl-col>.fl-col-content {
+  padding-right:0;
+  padding-left:0
+ }
+}
+img.mfp-img {
+ padding-bottom:40px!important
+}
+@media(max-width:768px) {
+ .fl-photo-content {
+  width:100%
+ }
+}
+.fl-node-5a0c9cbd2f3b1 .fl-photo {
+ text-align:center
+}
+@media(max-width:992px) {
+}
+@media(max-width:768px) {
+}
+.fl-node-5a0c9cbd2f3b1>.fl-module-content {
+ margin-top:20px;
+ margin-right:20px;
+ margin-left:20px
+}
+@media(max-width:768px) {
+ .fl-node-5a0c9cbd2f3b1>.fl-module-content {
+  margin-top:10px;
+  margin-left:10px;
+  margin-right:10px
+ }
+}
+.fl-node-5a0c9cbd2f1e8.fl-module-vamtam-heading .vamtam-heading {
+ text-align:center;
+ justify-content:center;
+ font-size:30px;
+ line-height:1.48
+}
+.fl-node-5a0c9cbd2f1e8 h3.vamtam-heading * {
+ color:var( --vamtam-accent-color-4 )!important
+}
+.fl-node-5a0c9cbd2f1e8 .vamtam-heading .vamtam-heading-text {
+}
+@media(max-width:992px) {
+}
+@media(max-width:768px) {
+}
+.fl-node-5a0c9cbd2f234.fl-module-vamtam-heading .vamtam-heading {
+ text-align:center;
+ justify-content:center
+}
+.fl-node-5a0c9cbd2f234 .vamtam-heading .vamtam-heading-text {
+}
+@media(max-width:992px) {
+}
+@media(max-width:768px) {
+}
+.fl-node-5a0c9cbd2f234>.fl-module-content {
+ margin-bottom:5px
+}
+.fl-node-5a0c9cbd2f282.fl-module-vamtam-icon {
+ text-align:center
+}
+.fl-node-5a0c9cbd2f282 .fl-module-content .fl-icon i {
+ font-size:38px;
+ color:var( --vamtam-accent-color-4 )
+}
+@media(max-width:992px) {
+}
+@media(max-width:768px) {
+}
+.fl-node-5a0c9cbd2f282>.fl-module-content {
+ margin-top:0;
+ margin-bottom:0
+}
+.fl-node-5a0c9cbd2f2ce .fl-rich-text strong {
+ font-weight:700
+}
+@media(max-width:992px) {
+}
+@media(max-width:768px) {
+}
+.fl-builder-content .vamtam-button-width-full .vamtam-button {
+ display:block;
+ text-align:center
+}
+.fl-builder-content .vamtam-button-width-custom .vamtam-button {
+ display:inline-block;
+ text-align:center;
+ max-width:100%
+}
+.fl-builder-content .vamtam-button i {
+ font-size:1.3em;
+ height:auto;
+ margin-right:8px;
+ vertical-align:middle;
+ width:auto
+}
+.fl-builder-content .vamtam-button i.vamtam-button-icon-after {
+ margin-left:8px;
+ margin-right:0
+}
+.fl-builder-content .vamtam-button-has-icon .vamtam-button-text {
+ vertical-align:middle
+}
+.fl-builder-content .vamtam-button.icon-animation-enable:not(:hover) i.vamtam-button-icon {
+ opacity:0
+}
+@media(max-width:768px) {
+ .fl-module-button .vamtam-button-left,
+ .fl-module-button .vamtam-button-right {
+  text-align:center
+ }
+}
